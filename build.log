@@ -1,0 +1,254 @@
+
+> bolt@1.0.0 build C:\Users\RDP\Downloads\bolt.diy-main
+> remix vite:build
+
+The CJS build of Vite's Node API is deprecated. See https://vite.dev/guide/troubleshooting.html#vite-cjs-node-api-deprecated for more details.
+ warn  Data fetching is changing to a single fetch in React Router v7
+Γöâ You can use the `v3_singleFetch` future flag to opt-in early.
+Γöâ -> https://remix.run/docs/en/2.13.1/start/future-flags#v3_singleFetch
+Γöù
+[36mvite v5.4.19 [32mbuilding for production...[36m[39m
+transforming...
+app/components/ui/Badge.tsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+app/components/ui/Collapsible.tsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+app/components/ui/ScrollArea.tsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+[plugin:vite:resolve] [plugin vite:resolve] Module "path" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/istextorbinary@9.5.0/node_modules/istextorbinary/edition-browsers/index.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "path" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/istextorbinary@9.5.0/node_modules/istextorbinary/edition-browsers/index.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "node:fs/promises" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/app/lib/modules/llm/providers/qwen.ts". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "node:os" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/app/lib/modules/llm/providers/qwen.ts". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "node:path" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/app/lib/modules/llm/providers/qwen.ts". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "node:fs/promises" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/app/lib/modules/llm/providers/qwen.ts". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "node:os" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/app/lib/modules/llm/providers/qwen.ts". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "node:path" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/app/lib/modules/llm/providers/qwen.ts". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "querystring" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/auth/oauth2client.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "querystring" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/auth/oauth2client.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "child_process" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/auth/googleauth.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "fs" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/auth/googleauth.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "os" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/auth/googleauth.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "path" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/auth/googleauth.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "child_process" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/auth/googleauth.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "fs" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/auth/googleauth.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "os" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/auth/googleauth.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "path" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/auth/googleauth.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "fs" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/gtoken@8.0.0/node_modules/gtoken/build/cjs/src/index.cjs". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "path" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/gtoken@8.0.0/node_modules/gtoken/build/cjs/src/index.cjs". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "fs" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/gtoken@8.0.0/node_modules/gtoken/build/cjs/src/index.cjs". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "path" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/gtoken@8.0.0/node_modules/gtoken/build/cjs/src/index.cjs". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "fs" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/auth/filesubjecttokensupplier.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "fs" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/auth/filesubjecttokensupplier.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "fs" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/util.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "os" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/util.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "path" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/util.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "fs" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/util.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "os" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/util.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "path" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/util.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "fs" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/auth/certificatesubjecttokensupplier.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "crypto" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/auth/certificatesubjecttokensupplier.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "https" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/auth/certificatesubjecttokensupplier.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "https" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/gaxios@7.1.2/node_modules/gaxios/build/cjs/src/gaxios.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "fs" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/auth/certificatesubjecttokensupplier.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "crypto" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/auth/certificatesubjecttokensupplier.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "https" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/auth/certificatesubjecttokensupplier.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "https" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/gaxios@7.1.2/node_modules/gaxios/build/cjs/src/gaxios.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "crypto" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/crypto/node/crypto.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "crypto" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/crypto/node/crypto.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "child_process" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/auth/pluggable-auth-handler.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "fs" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/auth/pluggable-auth-handler.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "child_process" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/auth/pluggable-auth-handler.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "fs" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/google-auth-library@10.3.0/node_modules/google-auth-library/build/src/auth/pluggable-auth-handler.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "fs" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/gcp-metadata@7.0.1/node_modules/gcp-metadata/build/src/gcp-residency.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "os" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/gcp-metadata@7.0.1/node_modules/gcp-metadata/build/src/gcp-residency.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "fs" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/gcp-metadata@7.0.1/node_modules/gcp-metadata/build/src/gcp-residency.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "os" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/gcp-metadata@7.0.1/node_modules/gcp-metadata/build/src/gcp-residency.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "crypto" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/jwa@2.0.1/node_modules/jwa/index.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "crypto" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/jwa@2.0.1/node_modules/jwa/index.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "crypto" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/gaxios@7.1.2/node_modules/gaxios/build/cjs/src/gaxios.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "crypto" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/gaxios@7.1.2/node_modules/gaxios/build/cjs/src/gaxios.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "net" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/https-proxy-agent@7.0.6/node_modules/https-proxy-agent/dist/index.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "tls" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/https-proxy-agent@7.0.6/node_modules/https-proxy-agent/dist/index.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "net" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/https-proxy-agent@7.0.6/node_modules/https-proxy-agent/dist/index.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "tls" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/https-proxy-agent@7.0.6/node_modules/https-proxy-agent/dist/index.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "node:http" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/node-fetch@3.3.2/node_modules/node-fetch/src/index.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "node:https" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/node-fetch@3.3.2/node_modules/node-fetch/src/index.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "node:zlib" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/node-fetch@3.3.2/node_modules/node-fetch/src/index.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "node:http" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/node-fetch@3.3.2/node_modules/node-fetch/src/index.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "node:https" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/node-fetch@3.3.2/node_modules/node-fetch/src/index.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "node:zlib" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/node-fetch@3.3.2/node_modules/node-fetch/src/index.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "net" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/agent-base@7.1.4/node_modules/agent-base/dist/index.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "http" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/agent-base@7.1.4/node_modules/agent-base/dist/index.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "https" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/agent-base@7.1.4/node_modules/agent-base/dist/index.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "net" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/agent-base@7.1.4/node_modules/agent-base/dist/index.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "http" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/agent-base@7.1.4/node_modules/agent-base/dist/index.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "https" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/agent-base@7.1.4/node_modules/agent-base/dist/index.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "node:http" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/node-fetch@3.3.2/node_modules/node-fetch/src/headers.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "node:http" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/node-fetch@3.3.2/node_modules/node-fetch/src/headers.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "node:url" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/node-fetch@3.3.2/node_modules/node-fetch/src/request.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "node:url" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/node-fetch@3.3.2/node_modules/node-fetch/src/request.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "node:net" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/node-fetch@3.3.2/node_modules/node-fetch/src/utils/referrer.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "node:net" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/node-fetch@3.3.2/node_modules/node-fetch/src/utils/referrer.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "node:fs" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/fetch-blob@3.2.0/node_modules/fetch-blob/from.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "node:path" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/fetch-blob@3.2.0/node_modules/fetch-blob/from.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "node:fs" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/fetch-blob@3.2.0/node_modules/fetch-blob/from.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "node:path" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/fetch-blob@3.2.0/node_modules/fetch-blob/from.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "http" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/agent-base@7.1.4/node_modules/agent-base/dist/helpers.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "https" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/agent-base@7.1.4/node_modules/agent-base/dist/helpers.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "http" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/agent-base@7.1.4/node_modules/agent-base/dist/helpers.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "https" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/agent-base@7.1.4/node_modules/agent-base/dist/helpers.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "worker_threads" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/node-domexception@1.0.0/node_modules/node-domexception/index.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+[plugin:vite:resolve] [plugin vite:resolve] Module "worker_threads" has been externalized for browser compatibility, imported by "C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/node-domexception@1.0.0/node_modules/node-domexception/index.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.
+node_modules/.pnpm/istextorbinary@9.5.0/node_modules/istextorbinary/edition-browsers/index.js (18:31): "basename" is not exported by "__vite-browser-external", imported by "node_modules/.pnpm/istextorbinary@9.5.0/node_modules/istextorbinary/edition-browsers/index.js".
+[32mΓ£ô[39m 5435 modules transformed.
+x Build failed in 1m 17s
+node_modules/.pnpm/node-fetch@3.3.2/node_modules/node-fetch/src/utils/referrer.js (1:8): "isIP" is not exported by "__vite-browser-external", imported by "node_modules/.pnpm/node-fetch@3.3.2/node_modules/node-fetch/src/utils/referrer.js".
+file: C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/node-fetch@3.3.2/node_modules/node-fetch/src/utils/referrer.js:1:8
+
+1: import {isIP} from 'node:net';
+           ^
+2: 
+3: /**
+
+    at getRollupError (file:///C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/rollup@4.45.1/node_modules/rollup/dist/es/shared/parseAst.js:401:41)
+    at error (file:///C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/rollup@4.45.1/node_modules/rollup/dist/es/shared/parseAst.js:397:42)
+    at Module.error (file:///C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/rollup@4.45.1/node_modules/rollup/dist/es/shared/node-entry.js:16830:16)
+    at Module.traceVariable (file:///C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/rollup@4.45.1/node_modules/rollup/dist/es/shared/node-entry.js:17279:29)
+    at ModuleScope.findVariable (file:///C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/rollup@4.45.1/node_modules/rollup/dist/es/shared/node-entry.js:14925:39)
+    at FunctionScope.findVariable (file:///C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/rollup@4.45.1/node_modules/rollup/dist/es/shared/node-entry.js:5620:38)
+    at FunctionBodyScope.findVariable (file:///C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/rollup@4.45.1/node_modules/rollup/dist/es/shared/node-entry.js:5620:38)
+    at Identifier.bind (file:///C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/rollup@4.45.1/node_modules/rollup/dist/es/shared/node-entry.js:5394:40)
+    at CallExpression.bind (file:///C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/rollup@4.45.1/node_modules/rollup/dist/es/shared/node-entry.js:2785:23)
+    at CallExpression.bind (file:///C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/rollup@4.45.1/node_modules/rollup/dist/es/shared/node-entry.js:11986:15)
+    at VariableDeclarator.bind (file:///C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/rollup@4.45.1/node_modules/rollup/dist/es/shared/node-entry.js:2785:23)
+    at VariableDeclaration.bind (file:///C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/rollup@4.45.1/node_modules/rollup/dist/es/shared/node-entry.js:2781:28)
+    at BlockStatement.bind (file:///C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/rollup@4.45.1/node_modules/rollup/dist/es/shared/node-entry.js:2781:28)
+    at FunctionDeclaration.bind (file:///C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/rollup@4.45.1/node_modules/rollup/dist/es/shared/node-entry.js:2785:23)
+    at ExportNamedDeclaration.bind (file:///C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/rollup@4.45.1/node_modules/rollup/dist/es/shared/node-entry.js:12510:27)
+    at Program.bind (file:///C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/rollup@4.45.1/node_modules/rollup/dist/es/shared/node-entry.js:2781:28)
+    at Module.bindReferences (file:///C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/rollup@4.45.1/node_modules/rollup/dist/es/shared/node-entry.js:16809:18)
+    at Graph.sortModules (file:///C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/rollup@4.45.1/node_modules/rollup/dist/es/shared/node-entry.js:22598:20)
+    at Graph.build (file:///C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/rollup@4.45.1/node_modules/rollup/dist/es/shared/node-entry.js:22496:14)
+    at file:///C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/rollup@4.45.1/node_modules/rollup/dist/es/shared/node-entry.js:23184:13
+    at catchUnfinishedHookActions (file:///C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/rollup@4.45.1/node_modules/rollup/dist/es/shared/node-entry.js:22655:16)
+    at rollupInternal (file:///C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/rollup@4.45.1/node_modules/rollup/dist/es/shared/node-entry.js:23179:5)
+    at Module.build (file:///C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/vite@5.4.19_@types+node@24.1.0_sass-embedded@1.89.2/node_modules/vite/dist/node/chunks/dep-C6uTJdX2.js:65693:14)
+    at viteBuild (C:\Users\RDP\Downloads\bolt.diy-main\node_modules\.pnpm\@remix-run+dev@2.16.8_@remix-run+react@2.16.8_react-dom@18.3.1_react@18.3.1__react@18.3.1_typ_w7rifulznkxcnl2xvvx3mnhj5a\node_modules\@remix-run\dev\dist\vite\build.js:212:5)
+    at build (C:\Users\RDP\Downloads\bolt.diy-main\node_modules\.pnpm\@remix-run+dev@2.16.8_@remix-run+react@2.16.8_react-dom@18.3.1_react@18.3.1__react@18.3.1_typ_w7rifulznkxcnl2xvvx3mnhj5a\node_modules\@remix-run\dev\dist\vite\build.js:236:3)
+    at Object.viteBuild (C:\Users\RDP\Downloads\bolt.diy-main\node_modules\.pnpm\@remix-run+dev@2.16.8_@remix-run+react@2.16.8_react-dom@18.3.1_react@18.3.1__react@18.3.1_typ_w7rifulznkxcnl2xvvx3mnhj5a\node_modules\@remix-run\dev\dist\cli\commands.js:184:5)
+    at Object.run (C:\Users\RDP\Downloads\bolt.diy-main\node_modules\.pnpm\@remix-run+dev@2.16.8_@remix-run+react@2.16.8_react-dom@18.3.1_react@18.3.1__react@18.3.1_typ_w7rifulznkxcnl2xvvx3mnhj5a\node_modules\@remix-run\dev\dist\cli\run.js:252:7) {
+  binding: 'isIP',
+  code: 'MISSING_EXPORT',
+  exporter: '__vite-browser-external',
+  id: 'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/node-fetch@3.3.2/node_modules/node-fetch/src/utils/referrer.js',
+  url: 'https://rollupjs.org/troubleshooting/#error-name-is-not-exported-by-module',
+  pos: 8,
+  loc: {
+    column: 8,
+    file: 'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/node-fetch@3.3.2/node_modules/node-fetch/src/utils/referrer.js',
+    line: 1
+  },
+  frame: "1: import {isIP} from 'node:net';\n           ^\n2: \n3: /**",
+  watchFiles: [
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/entry.client.tsx',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/root.tsx',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.configured-providers.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/webcontainer.connect.$id.tsx',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/webcontainer.preview.$id.tsx',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.supabase.variables.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.system.diagnostics.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.mcp-update-config.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.models.$provider.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.system.disk-info.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.export-api-keys.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.gemini-cli-auth.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.github-branches.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.github-template.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.gitlab-branches.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.gitlab-projects.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.system.git-info.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/gemini-cli-callback.tsx',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.netlify-deploy.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.supabase.query.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.check-env-key.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.supabase-user.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.vercel-deploy.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.github-stats.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.netlify-user.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.git-proxy.$.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.github-user.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.vercel-user.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.bug-report.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.mcp-check.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.qwen-auth.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.enhancer.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.git-info.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.supabase.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.llmcall.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.health.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.models.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.update.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/api.chat.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/chat.$id.tsx',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/_index.tsx',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/routes/git.tsx',
+    'C:\\Users\\RDP\\Downloads\\bolt.diy-main\\package.json',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/react@18.3.1/node_modules/react/index.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+react@2.16.8_react-dom@18.3.1_react@18.3.1__react@18.3.1_typescript@5.8.3/node_modules/@remix-run/react/dist/esm/index.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/react@18.3.1/node_modules/react/jsx-runtime.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/client.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+react@2.16.8_react-dom@18.3.1_react@18.3.1__react@18.3.1_typescript@5.8.3/node_modules/@remix-run/react/dist/esm/browser.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+react@2.16.8_react-dom@18.3.1_react@18.3.1__react@18.3.1_typescript@5.8.3/node_modules/@remix-run/react/dist/esm/components.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+react@2.16.8_react-dom@18.3.1_react@18.3.1__react@18.3.1_typescript@5.8.3/node_modules/@remix-run/react/dist/esm/scroll-restoration.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+react@2.16.8_react-dom@18.3.1_react@18.3.1__react@18.3.1_typescript@5.8.3/node_modules/@remix-run/react/dist/esm/server.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/react-router-dom@6.30.0_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/react-router-dom/dist/index.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+server-runtime@2.16.8_typescript@5.8.3/node_modules/@remix-run/server-runtime/dist/esm/index.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+react@2.16.8_react-dom@18.3.1_react@18.3.1__react@18.3.1_typescript@5.8.3/node_modules/@remix-run/react/dist/esm/_virtual/_rollupPluginBabelHelpers.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+react@2.16.8_react-dom@18.3.1_react@18.3.1__react@18.3.1_typescript@5.8.3/node_modules/@remix-run/react/dist/esm/errorBoundaries.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+react@2.16.8_react-dom@18.3.1_react@18.3.1__react@18.3.1_typescript@5.8.3/node_modules/@remix-run/react/dist/esm/routes.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+react@2.16.8_react-dom@18.3.1_react@18.3.1__react@18.3.1_typescript@5.8.3/node_modules/@remix-run/react/dist/esm/single-fetch.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/react-router-dom@6.30.0_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/react-router-dom/server.mjs',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+server-runtime@2.16.8_typescript@5.8.3/node_modules/@remix-run/server-runtime/dist/esm/cookies.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+server-runtime@2.16.8_typescript@5.8.3/node_modules/@remix-run/server-runtime/dist/esm/formData.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+server-runtime@2.16.8_typescript@5.8.3/node_modules/@remix-run/server-runtime/dist/esm/responses.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+server-runtime@2.16.8_typescript@5.8.3/node_modules/@remix-run/server-runtime/dist/esm/single-fetch.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+server-runtime@2.16.8_typescript@5.8.3/node_modules/@remix-run/server-runtime/dist/esm/server.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+server-runtime@2.16.8_typescript@5.8.3/node_modules/@remix-run/server-runtime/dist/esm/sessions.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+server-runtime@2.16.8_typescript@5.8.3/node_modules/@remix-run/server-runtime/dist/esm/sessions/cookieStorage.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+server-runtime@2.16.8_typescript@5.8.3/node_modules/@remix-run/server-runtime/dist/esm/sessions/memoryStorage.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+server-runtime@2.16.8_typescript@5.8.3/node_modules/@remix-run/server-runtime/dist/esm/upload/memoryUploadHandler.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+server-runtime@2.16.8_typescript@5.8.3/node_modules/@remix-run/server-runtime/dist/esm/dev.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+server-runtime@2.16.8_typescript@5.8.3/node_modules/@remix-run/server-runtime/dist/esm/upload/errors.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+react@2.16.8_react-dom@18.3.1_react@18.3.1__react@18.3.1_typescript@5.8.3/node_modules/@remix-run/react/dist/esm/data.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+react@2.16.8_react-dom@18.3.1_react@18.3.1__react@18.3.1_typescript@5.8.3/node_modules/@remix-run/react/dist/esm/markup.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+react@2.16.8_react-dom@18.3.1_react@18.3.1__react@18.3.1_typescript@5.8.3/node_modules/@remix-run/react/dist/esm/invariant.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/turbo-stream@2.4.1/node_modules/turbo-stream/dist/turbo-stream.mjs',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+router@1.23.0/node_modules/@remix-run/router/dist/router.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+server-runtime@2.16.8_typescript@5.8.3/node_modules/@remix-run/server-runtime/dist/esm/entry.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+server-runtime@2.16.8_typescript@5.8.3/node_modules/@remix-run/server-runtime/dist/esm/errors.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+server-runtime@2.16.8_typescript@5.8.3/node_modules/@remix-run/server-runtime/dist/esm/headers.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+server-runtime@2.16.8_typescript@5.8.3/node_modules/@remix-run/server-runtime/dist/esm/invariant.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+server-runtime@2.16.8_typescript@5.8.3/node_modules/@remix-run/server-runtime/dist/esm/mode.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+server-runtime@2.16.8_typescript@5.8.3/node_modules/@remix-run/server-runtime/dist/esm/routeMatching.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+server-runtime@2.16.8_typescript@5.8.3/node_modules/@remix-run/server-runtime/dist/esm/routes.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+server-runtime@2.16.8_typescript@5.8.3/node_modules/@remix-run/server-runtime/dist/esm/serverHandoff.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+server-runtime@2.16.8_typescript@5.8.3/node_modules/@remix-run/server-runtime/dist/esm/deprecations.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/index.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/react@18.3.1/node_modules/react/cjs/react.production.min.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/react@18.3.1/node_modules/react/cjs/react-jsx-runtime.production.min.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+react@2.16.8_react-dom@18.3.1_react@18.3.1__react@18.3.1_typescript@5.8.3/node_modules/@remix-run/react/dist/esm/links.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+react@2.16.8_react-dom@18.3.1_react@18.3.1__react@18.3.1_typescript@5.8.3/node_modules/@remix-run/react/dist/esm/fog-of-war.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+react@2.16.8_react-dom@18.3.1_react@18.3.1__react@18.3.1_typescript@5.8.3/node_modules/@remix-run/react/dist/esm/routeModules.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+react@2.16.8_react-dom@18.3.1_react@18.3.1__react@18.3.1_typescript@5.8.3/node_modules/@remix-run/react/dist/esm/fallback.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+server-runtime@2.16.8_typescript@5.8.3/node_modules/@remix-run/server-runtime/dist/esm/warnings.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/cookie@0.7.2/node_modules/cookie/index.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@web3-storage+multipart-parser@1.0.0/node_modules/@web3-storage/multipart-parser/esm/src/index.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/lib/stores/theme.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/utils/stripIndent.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/lib/stores/logs.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/utils/debugLogger.ts',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/react-router@6.30.0_react@18.3.1/node_modules/react-router/dist/index.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/node_modules/.pnpm/@remix-run+react@2.16.8_react-dom@18.3.1_react@18.3.1__react@18.3.1_typescript@5.8.3/node_modules/@remix-run/react/dist/esm/errors.js',
+    'C:/Users/RDP/Downloads/bolt.diy-main/app/styles/index.scss',
+    ... 4825 more items
+  ],
+  [Symbol(augmented)]: true
+}
+ΓÇëELIFECYCLEΓÇë Command failed with exit code 1.
